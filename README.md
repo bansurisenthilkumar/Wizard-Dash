@@ -40,5 +40,18 @@ Use the ⬅️ Left and ➡️ Right arrow keys to move the wizard and dodge fal
 ---
 Demo Video 🎥
 
+[![Watch Demo](https://img.youtube.com/vi/5AZXwMemmMQ/0.jpg)](https://youtu.be/5AZXwMemmMQ)
 
+---
+Screenshots 📸
+
+<img src="https://github.com/user-attachments/assets/a0f39beb-e6c9-439e-85b5-4523cc69294a" alt="Wizard Dash 2" width="300"/>  
+
+<img src="https://github.com/user-attachments/assets/1787ce52-d093-411f-a9c1-79cd5fd8ac47" alt="Wizard Dash 3" width="300"/>
+
+---
+Repository & Assets 📂
+You can find the full code, assets (frames, sounds, images), and instructions in the GitHub repo:
+
+Wizard Dash on GitHub
 
